@@ -41,20 +41,20 @@ ___________________________
 
 Manual Testing:
 
-    Test Design & Execution: Meticulous in designing test cases covering various functionalities, user scenarios, and edge cases. Experienced in executing manual testing plans, identifying defects, and reporting bugs effectively. 
+Test Design & Execution: Meticulous in designing test cases covering various functionalities, user scenarios, and edge cases. Experienced in executing manual testing plans, identifying defects, and reporting bugs effectively. 
 
-    SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. 
+SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. 
 
 Technical Skills
 
-    Programming Languages: Proficient in vb, with a working knowledge of Python, SQL. 
-    Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, System integration Testing, Exploratory Testing, Test Planning & Execution, and Acceptance Testing.
+Programming Languages: Proficient in vb, with a working knowledge of Python, SQL. 
+Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, System integration Testing, Exploratory Testing, Test Planning & Execution, and Acceptance Testing.
 
 Soft Skills
 
-    Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
-    Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
-    Organization & Time Management: Highly organized and detail-oriented, with excellent time management skills for prioritizing tasks and meeting deadlines.
+Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
+Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
+Organization & Time Management: Highly organized and detail-oriented, with excellent time management skills for prioritizing tasks and meeting deadlines.
 
 
 	
@@ -80,8 +80,8 @@ ___________________________
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
-    [![My SkillsOnline courses by Great Learning](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)
-	I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs. 
+[![Online course by QAFox](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)
+I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs. 
 
 ___________________________
 
