@@ -7,10 +7,11 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 
 #### :collision: My Software Testing Skills 
 #### JIRA/Zephyr | BAT | UAT | SIT | SQL | MongoDB | Postman | VBA | Visual Studio Code|
+[![My Skills](https://skillicons.dev/icons?i=github,mongodb,mysql,postman,pycharm,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 #### :seedling: I’m currently learning
 ##### Selenium | Java | Cypress | Cucumber | Gerkin | Junit | Jmeter | Playwright | Typescript 
+[![My Skills](https://skillicons.dev/icons?i=gherkin,java,jquery,maven,selenium,cypress)](https://skillicons.dev)
 
 #### 📫 How to reach me 
 
