@@ -73,8 +73,9 @@ The Complete Python Course | Learn Python by Doing in 2025
 From foundations to expert, learn about every major Python topic, working with Python 3. I have learned Object-Oriented Programming to Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium. Interact with REST APIs using Python. Learn how to write desktop applications with Python and Tkinter. **[LINK](https://drive.google.com/file/d/1L_7J1yEEJixCmIigqrfKNTrYw4PWX1Kj/view?usp=sharing)** (Example of Tkinker app to extract data and automatically produce test scripts)
 
 
+ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2024
 
-
+*[Online course by Maged Koshty -Link to the 2025 version as old one has bee removed- :](https://www.udemy.com/course/certified-tester-foundation-level-ctfl/?couponCode=ST13MT80425G3)** 
 
 ___________________________
 
