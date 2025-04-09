@@ -80,7 +80,7 @@ ___________________________
 
 #### Examples Of My Work
 
-## Programming
+## :abcd: Programming
 
 Test Generator (Python)
 
@@ -104,7 +104,7 @@ ___________________________
 
 ___________________________
 
-## SQL Queries 
+## :floppy_disk: SQL Queries 
 
 <!---
 JamesDevTest/JamesDevTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
