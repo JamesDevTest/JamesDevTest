@@ -80,7 +80,7 @@ ___________________________
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
-[![Online course by QAFox](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)
+**[Online course by QAFox](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)**
 I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs. 
 
 ___________________________
