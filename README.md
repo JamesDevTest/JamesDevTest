@@ -45,12 +45,12 @@ Test Design & Execution: Meticulous in designing test cases covering various fun
 
 SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. 
 
-Technical Skills
+Technical Skills:
 
 Programming Languages: Proficient in vb, with a working knowledge of Python, SQL. 
 Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, System integration Testing, Exploratory Testing, Test Planning & Execution, and Acceptance Testing.
 
-Soft Skills
+Soft Skills:
 
 Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
 Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
@@ -80,9 +80,13 @@ ___________________________
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
-**[Online course by QAFox](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)**
+**[Online course by QAFox:](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)**
 I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs. 
 
+
+The Complete Python Course | Learn Python by Doing in 2025
+**[Online course by teclado :](https://www.udemy.com/course/the-complete-python-course/?couponCode=ST13MT80425G3)**
+From foundations to expert, learn about every major Python topic, working with Python 3. I have learned Object-Oriented Programming to Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium. Interact with REST APIs using Python. Learn how to write desktop applications with Python and Tkinter. **[LINK](https://drive.google.com/file/d/1L_7J1yEEJixCmIigqrfKNTrYw4PWX1Kj/view?usp=sharing)** (Example of TKinker app to extract data and automatically produce test scripts)
 ___________________________
 
 
