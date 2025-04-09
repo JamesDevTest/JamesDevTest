@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Portfolio!
-- [About me](#👋-Hi!,-I'm-James)
+- [About me](#-👋-Hi!,-I'm-James)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
