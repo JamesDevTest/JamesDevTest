@@ -19,10 +19,12 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 
 📧 james.devlin.work@gmail.com
 
-[![text](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](james.devlin.work@gmail.com)
-
 
 #### CV
+
+You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.google.com/file/d/1L_7J1yEEJixCmIigqrfKNTrYw4PWX1Kj/view?usp=sharing)**
+
+*Last Updated*: 4th April, 2025
 
 ___________________________
 
