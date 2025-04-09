@@ -76,7 +76,7 @@ ___________________________
 #### SQL Queries 
 ___________________________
 
-#### Courses 
+#### :closed_book: Courses
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
