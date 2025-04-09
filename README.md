@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Portfolio!
-- [About me](#-👋-Hi!,-I'm-James)
+- [About me](#-Hi!,-I'm-James)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
@@ -8,8 +8,8 @@
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
-# 👋 Hi!, I'm James
-### A passionate Test Analyst from Glasgow! 🧉 
+# Hi!, I'm James 👋 
+### A passionate Test Analyst from Glasgow
 
 In this portfolio, I will be sharing the tasks and assignments that I have completed as part of my learning and mastery of some of the most useful tools for Manual testers. I have always been interested in technology, and I have been actively seeking to enhance my skills in this field by learning and exploring various tools and techniques.
 
