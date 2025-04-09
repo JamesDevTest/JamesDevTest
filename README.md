@@ -16,6 +16,8 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 #### 📫 How to reach me 
 
 💻 [LinkedIn](www.linkedin.com/in/james-devlin-2b395124)
+💻 [LinkedIn](www.linkedin.com/in/james-devlin-2b395124)
+💻 [LinkedIn](www.linkedin.com/in/james-devlin-2b395124)
 📧 james.devlin.work@gmail.com
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
 
