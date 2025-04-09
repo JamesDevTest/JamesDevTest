@@ -19,7 +19,7 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 
 📧 james.devlin.work@gmail.com
 
-[![text](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
+[![text](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](james.devlin.work@gmail.com)
 
 
 #### CV
