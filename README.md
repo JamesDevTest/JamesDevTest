@@ -57,23 +57,6 @@ Problem-solving: Adept at analyzing complex issues, identifying root causes, and
 Organization & Time Management: Highly organized and detail-oriented, with excellent time management skills for prioritizing tasks and meeting deadlines.
 
 
-	
-#### :mailbox: Postman REST API Testing
-___________________________
-
-#### 🔎 Bug reports
-
-___________________________
-
-#### :page_facing_up: Test cases
-
-___________________________
-
-#### :computer: Web Testing NHS
-
-___________________________
-
-#### SQL Queries 
 ___________________________
 
 #### :closed_book: Courses
@@ -97,11 +80,31 @@ ___________________________
 
 #### Examples Of My Work
 
+## Programming
+
 Test Generator (Python)
 
 Screen capture for Test script evedince (VBA)
 
+___________________________
 
+## :mailbox: Postman REST API Testing
+
+___________________________
+
+## 🔎 Bug reports
+
+___________________________
+
+## :page_facing_up: Test cases
+
+___________________________
+
+## :computer: Web Testing NHS
+
+___________________________
+
+## SQL Queries 
 
 <!---
 JamesDevTest/JamesDevTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
