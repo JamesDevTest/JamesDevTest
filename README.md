@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Portfolio!
 - [About me](#About-me)
 - [CV](#cv)
-- [Skills](#skills)
+- [Skills](#My-skills)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
@@ -73,7 +73,10 @@ ___________________________
 
 ___________________________
 
-#### SQL Queries & Learning resources 
+#### SQL Queries 
+___________________________
+
+#### Courses 
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
