@@ -69,7 +69,7 @@ ___________________________
 
 ___________________________
 
-#### :computer: Web Testing Proyect
+#### :computer: Web Testing NHS
 
 ___________________________
 
@@ -88,7 +88,18 @@ The Complete Python Course | Learn Python by Doing in 2025
 
 **[Online course by teclado :](https://www.udemy.com/course/the-complete-python-course/?couponCode=ST13MT80425G3)**
 From foundations to expert, learn about every major Python topic, working with Python 3. I have learned Object-Oriented Programming to Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium. Interact with REST APIs using Python. Learn how to write desktop applications with Python and Tkinter. **[LINK](https://drive.google.com/file/d/1L_7J1yEEJixCmIigqrfKNTrYw4PWX1Kj/view?usp=sharing)** (Example of Tkinker app to extract data and automatically produce test scripts)
+
+
+
+
+
 ___________________________
+
+#### Examples Of My Work
+
+Test Generator (Python)
+
+Screen capture for Test script evedince (VBA)
 
 
 
