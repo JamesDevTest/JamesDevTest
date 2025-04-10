@@ -83,9 +83,9 @@ ___________________________
 
 ## :abcd: Programming
 
-Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/Capture.JPG)**
+Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
-Screen capture for Test script evedince (VBA)
+Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
 ___________________________
 
