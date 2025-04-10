@@ -10,15 +10,15 @@ You can click on the screenshot to enlarge the image back to the original size a
 
 ![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/Animation2.gif)
 
-This will load the data we will use to create the test cases. The ID relates to a customer, The Sub EDR relates to the test that will be ran And Descritpion is the discription of the EDR type e.g EDR 2 is a adverse press check review. The Type will indicate the what test step will be needed. If i start the creation process by selecting Scripts from the 'menu' and press on 'Create Scripts'
+Adding more than one screenshot next the the first is just as easy.
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/Animation3.gif)
 
-The Python code iterates throught the Test Data and creates a test script for each ID. 
+And continuing to next step and adding new screenshots is easily done.
 
 ![Screenshot_4](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/Animation4.gif)
 
-The scripts will be generated and saved as excel files and stored in the script folder.
+As the cellreference is used to name the screenshot if by chance a screen shot if accidentally moved somewhere on the spreadsheet it can esily find the correct cell it belongs by simply pressing on the screenshot.
 
 ![Screenshot_5](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/Animation5.gif)
 
