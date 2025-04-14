@@ -2,8 +2,7 @@
 - [About me](#About-me)
 - [CV](#cv)
 - [Skills](#My-skills)
-- [Tools](#tools)
-- [Courses](#closed_book-courses-(ctrl+click-on-links-to-open-in-new-tab))
+- [Courses](#closed_book-courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test Generator](#Test-Generator)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
@@ -59,7 +58,8 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 
 ___________________________
 
-#### :closed_book: Courses (ctrl+click on links to open in new tab)
+#### :closed_book: Courses 
+(ctrl+click on links to open in new tab)
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
