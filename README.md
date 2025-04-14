@@ -3,7 +3,7 @@
 - [CV](#cv)
 - [Skills](#My-skills)
 - [Tools](#tools)
-- [Courses](#closed_book-courses)
+- [Courses](#closed_book-courses-(ctrl+click-on-links-to-open-in-new-tab))
 - [Examples of my work](#examples-of-my-work)
   * [Test Generator](#Test-Generator)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
