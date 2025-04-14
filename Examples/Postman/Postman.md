@@ -1,7 +1,7 @@
 
-# Test Script Generator
+# Postman Examples
 
-Below is an example of a VBA script that Grabs a screenshot using ScreenClipping. It takes current cell and uses the cell reference to rename the screen captuer so the image is always associated with the correct step. I uses the cell height and width to resize the image to fit into the cell so you can easily start adding second or third screenshots for each test step in a row while keeping the test script clean and neat.
+An example of POST / GET / DELETE methods using the **[Swagger Petstore json](https://petstore.swagger.io/v2/swagger.json)**
 
 * `POST` : in this example, I'm sending a `JSON` body that contains the details of the new user and expect a response body and a `200 OK` response status code
 
@@ -11,15 +11,15 @@ Below is an example of a VBA script that Grabs a screenshot using ScreenClipping
 
 ![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/GetUserJPG.JPG)
 
-* `POST` : in this example, Login
+* `POST` : in this example, Login with the new user we just created
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Login.JPG)
 
-* `POST` : in this example, Add Order
+* `POST` : in this example, Add Order creation and you can see the new order id 7758007819995351096
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/order.JPG)
 
-* `GET` : This method is to retrieve information on the order
+* `GET` : This method is to retrieve information on the order using the order id 7758007819995351096
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/orderGET.JPG)
 
