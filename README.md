@@ -2,10 +2,9 @@
 - [About me](#About-me)
 - [CV](#cv)
 - [Skills](#My-skills)
-- [Tools](#tools)
 - [Courses](#closed_book-courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test Generator](#Test-Generator)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## About me
@@ -23,6 +22,7 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 [![My Skills](https://skillicons.dev/icons?i=gherkin,java,jquery,maven,selenium,cypress)](https://skillicons.dev)
 
 #### 📫 How to reach me 
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
 
@@ -60,6 +60,7 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 ___________________________
 
 #### :closed_book: Courses
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
@@ -79,11 +80,12 @@ ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2024
 The course Prepared for the ISTQB® foundation level certification exam and helped me pass first time. **[LINK](https://drive.google.com/file/d/1Bl_gXPpuOrVlUdU5mtKB10PxigDfr5zM/view?usp=sharing)** (ISTQB Certification)
 ___________________________
 
-#### Examples Of My Work
+#### Examples Of My Work (ctrl+click on links to open in new tab)
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 ## :abcd: Programming
 
-Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+# Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
 Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
@@ -93,11 +95,11 @@ ___________________________
 
 ___________________________
 
-## 🔎 Bug reports **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Bug%20Reports/BugReports.xlsx)**
+## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
 
 ___________________________
 
-## :page_facing_up: Test cases **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Scripts/TestScripts.xlsx)**
+## :page_facing_up: Test cases **[LINK](https://docs.google.com/spreadsheets/d/1eQcu-MwFb1xUZdM-0yCmJuSZUykfWddLVzHBZWXmiyo/edit?usp=sharing)**
 
 ___________________________
 
