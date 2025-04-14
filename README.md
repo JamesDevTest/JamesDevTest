@@ -93,11 +93,11 @@ ___________________________
 
 ___________________________
 
-## 🔎 Bug reports
+## 🔎 Bug reports **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Bug%20Reports/BugReports.xlsx)**
 
 ___________________________
 
-## :page_facing_up: Test cases
+## :page_facing_up: Test cases **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Scripts/TestScripts.xlsx)**
 
 ___________________________
 
