@@ -22,7 +22,7 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 ##### Selenium | Java | Cypress | Cucumber | Gerkin | Junit | Jmeter | Playwright | Typescript 
 [![My Skills](https://skillicons.dev/icons?i=gherkin,java,jquery,maven,selenium,cypress)](https://skillicons.dev)
 
-#### 📫 How to reach me 
+#### 📫 How to reach me (ctrl+click on links to open in new tab)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
 
@@ -59,7 +59,7 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 
 ___________________________
 
-#### :closed_book: Courses
+#### :closed_book: Courses (ctrl+click on links to open in new tab)
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
@@ -79,7 +79,7 @@ ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2024
 The course Prepared for the ISTQB® foundation level certification exam and helped me pass first time. **[LINK](https://drive.google.com/file/d/1Bl_gXPpuOrVlUdU5mtKB10PxigDfr5zM/view?usp=sharing)** (ISTQB Certification)
 ___________________________
 
-#### Examples Of My Work
+#### Examples Of My Work (ctrl+click on links to open in new tab)
 
 ## :abcd: Programming
 
@@ -93,7 +93,7 @@ ___________________________
 
 ___________________________
 
-## 🔎 Bug reports **[LINK(ctrl+click to open in new tab)](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
+## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
 
 ___________________________
 
