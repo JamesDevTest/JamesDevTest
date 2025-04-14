@@ -59,7 +59,7 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 ___________________________
 
 #### :closed_book: Courses 
-(ctrl+click on links to open in new tab)
+# :link: (ctrl+click on links to open in new tab)
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
