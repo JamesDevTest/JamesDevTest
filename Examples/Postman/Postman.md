@@ -17,16 +17,18 @@ An example of POST / GET / DELETE methods using the **[Swagger Petstore json](ht
 
 * `POST` : in this example, Add Order creation and you can see the new order id 7758007819995351096
 
-![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/order.JPG)
+![Screenshot_4](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/order.JPG)
 
 * `GET` : This method is to retrieve information on the order using the order id 7758007819995351096
 
-![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/orderGET.JPG)
+![Screenshot_5](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/orderGET.JPG)
 
 * `DELETE` : With this method, we can delete the order
 
-![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/orderDELETE.JPG)
+![Screenshot_6](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/orderDELETE.JPG)
 
 * `POST` : in this example, Logout
 
-![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Logout.JPG)
+![Screenshot_7](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Logout.JPG)
+
+The link here has a set of postman [Test Scripts](https://docs.google.com/spreadsheets/d/1wMtP5PgSkgh7mzDe8eUiPk1qieq4NljgaENJjvvSIqs/edit?usp=sharing)
