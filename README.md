@@ -60,7 +60,7 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 ___________________________
 
 #### :closed_book: Courses
-$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+~}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
@@ -81,7 +81,7 @@ The course Prepared for the ISTQB® foundation level certification exam and help
 ___________________________
 
 #### Examples Of My Work (ctrl+click on links to open in new tab)
-$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+~}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 ## :abcd: Programming
 
