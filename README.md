@@ -4,7 +4,7 @@
 - [Skills](#My-skills)
 - [Courses](#closed_book-courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Generator](#Test-Generator-(Python))
+  * [Test Generator](Test-Generator-(Python))
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## About me
