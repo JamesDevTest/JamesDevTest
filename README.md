@@ -107,16 +107,9 @@ ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
 
-___________________________
-
 ## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
 
-___________________________
-
 ## :page_facing_up: Test cases **[LINK](https://docs.google.com/spreadsheets/d/1eQcu-MwFb1xUZdM-0yCmJuSZUykfWddLVzHBZWXmiyo/edit?usp=sharing)**
-
-___________________________
-
 
 ## :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
 
