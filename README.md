@@ -41,18 +41,18 @@ ___________________________
 
 ## My Skills
 
-Manual Testing:
+$\color{BurntOrange}{\textsf{Manual Testing:}}$
 
 Test Design & Execution: Meticulous in designing test cases covering various functionalities, user scenarios, and edge cases. Experienced in executing manual testing plans, identifying defects, and reporting bugs effectively. 
 
 SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. 
 
-Technical Skills:
+$\color{pink}{\textsf{Technical Skills:}}$
 
 Programming Languages: Proficient in vb, with a working knowledge of Python, SQL. 
 Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, System integration Testing, Exploratory Testing, Test Planning & Execution, and Acceptance Testing.
 
-Soft Skills:
+$\color{lime}{\textsf{Soft Skills:}}$
 
 Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
 Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
