@@ -117,11 +117,9 @@ ___________________________
 
 ___________________________
 
-## :computer: Web Testing NHS
 
-___________________________
+## :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
 
-## :floppy_disk: SQL Queries 
 
 <!---
 JamesDevTest/JamesDevTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
