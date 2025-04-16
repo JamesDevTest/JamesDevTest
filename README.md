@@ -97,7 +97,8 @@ $\color{teal}{\textsf{This example is a Test Script Generator created in Python.
 
 ### Screen capture for Test script evedince 
 
-$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the inage and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the image }}$
+$\color{lightblue}{\textsf{and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
 ### ISTQB Self Testing Tool 
 
