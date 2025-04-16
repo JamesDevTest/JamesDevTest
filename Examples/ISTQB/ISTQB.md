@@ -19,6 +19,6 @@ And then the full list of questions and what you failed on will be displayed
 ![image](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Capture.JPG)
 
 
-Any diagrams the is part of the test will be displayed on the right hand side and if a little blurry or crampted you can click the image and it will load at full size.
+Any diagrams that is part of the test will be displayed on the right hand side and if a little blurry or crampted you can click the image and it will load at full size.
 
 ![Screenshot_4](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Animation4.gif)
