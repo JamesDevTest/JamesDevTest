@@ -4,8 +4,10 @@
 - [Skills](#My-skills)
 - [Courses](#closed_book-courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Generator](#Test-Generator*)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Selenium Python](#Selenium-Python)
+  * [Test Generator](#Test-Generator)
+  * [Screen capture for Test script evedince](#Screen-capture-for-Test-script-evedince)
+  * [ISTQB Quiz](#ISTQB-Self-Testing-Tool)
 
 ## About me
 # Hi!, I'm James 👋 
@@ -85,13 +87,21 @@ $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[r
 
 ## :abcd: Programming
 
-### Selenium (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+### Selenium Python
 
-### Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+Simple example using python selenium to logon to a website **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
 
-### Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+### Test Generator
 
-### ISTQB Self Testing Tool (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
+This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts. **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+
+### Screen capture for Test script evedince 
+
+Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the inage and return to position after words **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+
+### ISTQB Self Testing Tool 
+
+Another example of a excel VBA tool to test youself on ISTQB mock quizes **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
 ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
