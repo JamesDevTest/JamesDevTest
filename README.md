@@ -91,6 +91,7 @@ Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/bl
 
 Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
+ISTQB Self Testing Tool (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
 ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
