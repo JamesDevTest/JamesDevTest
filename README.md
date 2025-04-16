@@ -87,9 +87,9 @@ $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[r
 
 ## :abcd: Programming
 
-### $\color{orange}{\textsf{Selenium Python}}$
+### Selenium Python
 
-Simple example using python selenium to logon to a website **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+$\color{orange}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
 
 ### Test Generator
 
