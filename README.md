@@ -4,7 +4,7 @@
 - [Skills](#My-skills)
 - [Courses](#closed_book-courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Generator](#Test-Generator)
+  * [Test Generator](#Test-Generator*)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## About me
@@ -85,13 +85,13 @@ $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[r
 
 ## :abcd: Programming
 
-Selenium (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+### Selenium (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
 
-#### Test Generator;  Created in Python **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+### Test Generator (Python) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
-Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+### Screen capture for Test script evedince (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
-ISTQB Self Testing Tool (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
+### ISTQB Self Testing Tool (VBA) **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
 ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
