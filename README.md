@@ -93,15 +93,15 @@ $\color{orange}{\textsf{Simple example using python selenium to logon to a websi
 
 ### Test Generator
 
-This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts. **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+$\color{teal}{\textsf{This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts.}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
 ### Screen capture for Test script evedince 
 
-Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the inage and return to position after words **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the inage and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
 ### ISTQB Self Testing Tool 
 
-Another example of a excel VBA tool to test youself on ISTQB mock quizes **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
+$\color{violet}{\textsf{Another example of a excel VBA tool to test youself on ISTQB mock quizes}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
 ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
