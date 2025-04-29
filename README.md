@@ -97,8 +97,8 @@ $\color{teal}{\textsf{This example is a Test Script Generator created in Python.
 
 ### Screen capture for Test script evedince 
 
-$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on the cell will enlarge the image }}$
-$\color{lightblue}{\textsf{and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on }}$
+$\color{lightblue}{\textsf{the cell will enlarge the image and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
 ### ISTQB Self Testing Tool 
 
@@ -107,21 +107,12 @@ ___________________________
 
 ## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
 
-___________________________
-
 ## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
-
-___________________________
 
 ## :page_facing_up: Test cases **[LINK](https://docs.google.com/spreadsheets/d/1eQcu-MwFb1xUZdM-0yCmJuSZUykfWddLVzHBZWXmiyo/edit?usp=sharing)**
 
-___________________________
+## :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
 
-## :computer: Web Testing NHS
-
-___________________________
-
-## :floppy_disk: SQL Queries 
 
 <!---
 JamesDevTest/JamesDevTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
