@@ -9,8 +9,10 @@ Using Pycharm with pytest and playwright installed I can use the command - Playw
 
 * In this example, I'm logging into tutorialsninja.com. The test mirrors the Java example and shows how eay it is for Playwright to create the automated script:
 
-![Screenshot_1](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Animation1.gif)
+![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture1.JPG)
+
 
 Using the Chromium Browser, I open the test website. First, By running 
 
-![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Animation2.gif)
+![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture1.JPG)
+
