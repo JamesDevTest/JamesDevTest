@@ -15,7 +15,7 @@ The Playwright Code Inspector opens with pre-generated code to launch the browse
 
 ![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Animation1.gif)
 
-Using the Chromium Browser, I open the test website. First, By running 
+By copying the code from the Playwright Instpctor i can paste into pycharm and run the script as normal to see the test play out.
 
-![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture1.JPG)
+![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Animation2.gif)
 
