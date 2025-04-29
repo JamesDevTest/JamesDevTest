@@ -101,7 +101,7 @@ ___________________________
 
 ### Selenium Java Cucumber Gerkin
 
-$\color{purple}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJave.md)**
+$\color{purple}{\textsf{Simple example using Jave selenium Cucumber Gerkin to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJave.md)**
 
 ### Selenium Python
 
@@ -109,7 +109,7 @@ $\color{yellow}{\textsf{Simple example using python selenium to logon to a websi
 
 ### PlayWright Python
 
-$\color{orange}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Playwright.md)**
+$\color{orange}{\textsf{Simple example using Playwright python to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Playwright.md)**
 
 
 ### Test Generator
