@@ -1,5 +1,5 @@
 
-# PlayWright (WIP)
+# PlayWright Codegen (WIP)
 
 Example of Using Playwright in Python to Control a Web Page in Chromium
 
