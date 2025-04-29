@@ -101,11 +101,11 @@ ___________________________
 
 ### Selenium Java Cucumber Gerkin
 
-$\color{orange}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJave.md)**
+$\color{purple}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJave.md)**
 
 ### Selenium Python
 
-$\color{orange}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+$\color{yellow}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
 
 ### PlayWright Python
 
