@@ -19,3 +19,7 @@ By copying the code from the Playwright Instpctor i can paste into pycharm and r
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Animation2.gif)
 
+#### Pytest
+
+
+
