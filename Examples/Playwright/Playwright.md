@@ -7,7 +7,7 @@ Using Pycharm with pytest and playwright installed I can use the command - `Play
 
 ![Screenshot_1](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture2.JPG)
 
-the playwright code Inspector has the code that has been generated to open the browser and is waiting on your interaction with the browser so it can record your actions and turn them into the code needed to create the test script
+The Playwright Code Inspector opens with pre-generated code to launch the browser and waits for your interactions. As you interact with the browser, it records your actions and automatically generates the corresponding test script code.
 
 ![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture3.JPG)
 
