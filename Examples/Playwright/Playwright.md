@@ -1,5 +1,5 @@
 
-# Selenium Python
+# PlayWright (WIP)
 
 Example of Using Python and Selenium to Control a Web Page in Firefox
 
