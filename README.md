@@ -78,8 +78,15 @@ From foundations to expert, learn about every major Python topic, working with P
 
 ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2024
 
-*[Online course by Maged Koshty:](https://www.udemy.com/course/certified-tester-foundation-level-ctfl/?couponCode=ST13MT80425G3)** 
+**[Online course by Maged Koshty:](https://www.udemy.com/course/certified-tester-foundation-level-ctfl/?couponCode=ST13MT80425G3)** 
 The course Prepared for the ISTQB® foundation level certification exam and helped me pass first time. **[LINK](https://drive.google.com/file/d/1Bl_gXPpuOrVlUdU5mtKB10PxigDfr5zM/view?usp=sharing)** (ISTQB Certification)
+
+
+Playwright with Python | PyTest framework with Playwright
+
+**[Online course by AutomationNeemo:](https://www.youtube.com/watch?v=CUsLSeg4O_w&list=PLP5_A7hnY1Tggph0F0cRqf5iyyZuIBXYC&index=11)**
+I learned how to automate browser actions using Playwright with Python, including launching browsers, locating elements, handling user interactions, and working with waits and assertions. The course covered integrating Playwright with PyTest for structured, scalable testing, using fixtures for setup and teardown, and running tests efficiently. I also explored recording tests with Playwright Codegen, handling complex scenarios like alerts and file uploads, and generating reports. Overall, the course provided a solid foundation in end-to-end test automation using modern tools.
+
 ___________________________
 
 #### Examples Of My Work 
