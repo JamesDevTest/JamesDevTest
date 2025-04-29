@@ -1,24 +1,23 @@
-# ISTQB Study Self Test Tool
+# ISTQB Study Self-Test Tool
 
-Below is an example of a VBA script that i used to test myself before i sat the ISTQB test. I collected lots of mock test from around the internet and converted them into a usable format in excel.
+Below is an example of a VBA script I used to prepare for the ISTQB exam. I gathered various mock tests from across the internet and converted them into a format that could be easily used within Excel.
 
-The tool lets me choose which test i want to practice with using a dropdown box. I can see the progress as i go through the test by displaying my score and what question number i am on and after i answer a question shows me if i am incorrect or not.
+The tool allows me to select the test I want to practice with via a dropdown menu. As I progress through the test, it tracks my score and indicates the current question number. After answering each question, the tool immediately shows whether my answer was correct or incorrect.
 
 ![Screenshot_1](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Animation1.gif)
 
-You can choose to no show the pass/fail result after every question making it closer to the real test.
+For a more realistic experience, you can choose to hide the pass/fail result after each question, mimicking the actual test conditions.
 
 ![Screenshot_2](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Animation2.gif)
 
-At the end of the test you will see your score in a popup
+At the end of the test, a popup will display your score.
 
 ![Screenshot_3](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Animation3.gif)
 
-And then the full list of questions and what you failed on will be displayed
+Additionally, a full list of all questions, highlighting the ones you answered incorrectly, will be shown.
 
 ![image](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Capture.JPG)
 
-
-Any diagrams that is part of the test will be displayed on the right hand side and if a little blurry or crampted you can click the image and it will load at full size.
+If any diagrams are part of the test, they will appear on the right-hand side. If the images are blurry or cramped, you can click on them to view them in full size.
 
 ![Screenshot_4](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/Animation4.gif)
