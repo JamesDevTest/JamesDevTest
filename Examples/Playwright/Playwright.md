@@ -43,7 +43,7 @@ And to stop the recording i use the above line after all steps have ran.
 
 After running you python test a file called "trace.zip" will be saved in same folder as the python test script. To open this zip file you need to use playwrights trace viewer. You can open the trace from the Terminal : `playwright show-trace playwright\trace.zip` I will look somthing like the below.
 
-![Screenshot_5](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Animation2.gif)
+![Screenshot_5](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture4.JPG)
 
 You can see that screenshots get recorded in order of events that occured. These can be selected to view.
 
@@ -51,11 +51,11 @@ You can see that screenshots get recorded in order of events that occured. These
 
 Each step records before and after screenshots. So as my email address is added you can view both images of the login page as the email is added
 
-![Screenshot_7](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture3.JPG)
+![Screenshot_7](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Animation4.gif)
 
 And on Assertions when you have an expected result like the selected item page is displayed and contains specific text on the webpage you can see the expected Return Value within the Call tab.
 
-![Screenshot_8](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture4.JPG)
+![Screenshot_8](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Capture5.JPG)
 
 
 # Pytest
