@@ -27,11 +27,7 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Right click on links to open in new tab
 ```
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
@@ -48,6 +44,15 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 ___________________________
 
 ## My Skills
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 $\color{BurntOrange}{\textsf{Manual Testing:}}$
 
