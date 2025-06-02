@@ -1,5 +1,5 @@
 
-# Test Script Generator
+# Test Script Screen capture
 
 Below is an example of a VBA script that captures a screenshot using ScreenClipping. The script uses the currently selected cell to name the screenshot, ensuring it’s always linked to the correct test step. It also resizes the image to match the cell’s height and width, allowing you to add additional screenshots (such as second or third captures) in the same row while keeping the test script organized and visually tidy.
 
