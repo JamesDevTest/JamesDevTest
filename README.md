@@ -65,10 +65,12 @@ ___________________________
 #### :closed_book: Courses
 $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
+
 Cucumber Hybrid Framework using Selenium 4 Java 
 
 **[Online course by QAFox:](https://www.youtube.com/watch?v=RlfkOIwhOVg&t=20148s)** 
 I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs. 
+
 
 
 The Complete Python Course | Learn Python by Doing in 2025
@@ -77,10 +79,12 @@ The Complete Python Course | Learn Python by Doing in 2025
 From foundations to expert, learn about every major Python topic, working with Python 3. I have learned Object-Oriented Programming to Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium. Interact with REST APIs using Python. Learn how to write desktop applications with Python and Tkinter. **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)** (Example of Tkinker app to extract data and automatically produce test scripts)
 
 
+
 ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2024
 
 **[Online course by Maged Koshty:](https://www.udemy.com/course/certified-tester-foundation-level-ctfl/?couponCode=ST13MT80425G3)**  
 The course Prepared for the ISTQB® foundation level certification exam and helped me pass first time. **[LINK](https://drive.google.com/file/d/1Bl_gXPpuOrVlUdU5mtKB10PxigDfr5zM/view?usp=sharing)** (ISTQB Certification)
+
 
 
 Playwright with Python | PyTest framework with Playwright
