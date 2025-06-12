@@ -58,6 +58,7 @@ Problem-solving: Adept at analyzing complex issues, identifying root causes, and
 Organization & Time Management: Highly organized and detail-oriented, with excellent time management skills for prioritizing tasks and meeting deadlines.
 
 
+
 ___________________________
 
 #### :closed_book: Courses
