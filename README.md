@@ -98,15 +98,15 @@ ___________________________
 $\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 
-## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
+### 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
 
-## :page_facing_up: Test cases **[LINK](https://docs.google.com/spreadsheets/d/1eQcu-MwFb1xUZdM-0yCmJuSZUykfWddLVzHBZWXmiyo/edit?usp=sharing)**
+### :page_facing_up: Test cases **[LINK](https://docs.google.com/spreadsheets/d/1eQcu-MwFb1xUZdM-0yCmJuSZUykfWddLVzHBZWXmiyo/edit?usp=sharing)**
 
-## :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
+### :mailbox: Postman REST API Testing **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Postman/Postman.md)**
 
-## :heavy_plus_sign: Jira **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Jira/Jira.md)**
+### :heavy_plus_sign: Jira **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Jira/Jira.md)**
 
-## :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
+### :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
 
 ___________________________
 
