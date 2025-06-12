@@ -40,24 +40,18 @@ ___________________________
 
 ## My Skills
 
+$\color{BurntOrange}{\textsf{Manual Testing:}}$
 
-```diff
-- Manual Testing:
-```
 Test Design & Execution: Meticulous in designing test cases covering various functionalities, user scenarios, and edge cases. Experienced in executing manual testing plans, identifying defects, and reporting bugs effectively. 
 
 SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. 
 
-```diff
-+ Technical Skills:
-```
+$\color{pink}{\textsf{Technical Skills:}}$
 
 Programming Languages: Proficient in vb, with a working knowledge of Python, SQL. 
 Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, System integration Testing, Exploratory Testing, Test Planning & Execution, and Acceptance Testing.
 
-```diff
-@@ Soft Skills: @@
-```
+$\color{lime}{\textsf{Soft Skills:}}$
 
 Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
 Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
@@ -109,34 +103,34 @@ ___________________________
 ## :floppy_disk: SQL Queries **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/SQL/SQL.md)**
 
 ___________________________
+
 ## :abcd: Programming
 
 ### Selenium Java Cucumber Gerkin
-$\color{lime}{\textsf{Selenium}}$ $\color{red}{\textsf{Java}}$ $\color{green}{\textsf{Cucumber}}$ $\color{teal}{\textsf{Gerkin}}$
 
-Simple example using Jave selenium Cucumber Gerkin to logon to a website  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJava.md)**
+$\color{purple}{\textsf{Simple example using Jave selenium Cucumber Gerkin to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJava.md)**
 
 ### Selenium Python
 
-Simple example using python selenium to logon to a website  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+$\color{yellow}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
 
 ### PlayWright Python
 
-Simple example using Playwright python to logon to a website  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Playwright.md)**
+$\color{orange}{\textsf{Simple example using Playwright python to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Playwright/Playwright.md)**
 
 
 ### Test Generator
 
-This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts.  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
+$\color{teal}{\textsf{This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts.}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
 ### Screen capture for Test script evedince 
 
-Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on
-the cell will enlarge the image and return to position after words **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+$\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on }}$
+$\color{lightblue}{\textsf{the cell will enlarge the image and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
 
 ### ISTQB Self Testing Tool 
 
-Another example of a excel VBA tool to test youself on ISTQB mock quizes **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
+$\color{violet}{\textsf{Another example of a excel VBA tool to test youself on ISTQB mock quizes}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/ISTQB/ISTQB.md)**
 
 
 
