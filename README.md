@@ -23,7 +23,8 @@ In this portfolio, I will be sharing the tasks and assignments that I have compl
 ##### Selenium | Java | Cypress | Cucumber | Gerkin | Junit | Jmeter | Playwright | Typescript 
 [![My Skills](https://skillicons.dev/icons?i=gherkin,java,jquery,maven,selenium,cypress)](https://skillicons.dev)
 
-#### 📫 How to reach me (Right click on links to open in a new tab)
+#### 📫 How to reach me
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-devlin-2b395124)
 
@@ -62,7 +63,7 @@ Organization & Time Management: Highly organized and detail-oriented, with excel
 ___________________________
 
 #### :closed_book: Courses
-(Right click on links to open in a new tab)
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 Cucumber Hybrid Framework using Selenium 4 Java 
 
@@ -90,7 +91,7 @@ I learned how to automate browser actions using Playwright with Python, includin
 ___________________________
 
 #### Examples Of My Work 
-(Right click on links to open in a new tab)
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 
 ## 🔎 Bug reports **[LINK](https://docs.google.com/spreadsheets/d/1WfKdyT8N7d3w5ks1jRehaH4KvMpF5OC-PrR4z5EHgo8/edit?usp=sharing)**
@@ -106,14 +107,17 @@ ___________________________
 ___________________________
 
 ## :abcd: Programming
+$\textsf{{\color[rgb]{0.0, 0.0, 1.0}(ctrl}{\color[rgb]{0.1, 0.0, 0.9}+}{\color[rgb]{0.2, 0.0, 0.8}click }{\color[rgb]{0.3, 0.0, 0.7}on }{\color[rgb]{0.4, 0.0, 0.6}links ~ }{\color[rgb]{0.5, 0.0, 0.5}to ~ }{\color[rgb]{0.6, 0.0, 0.4}open }{\color[rgb]{0.7, 0.0, 0.3}in ~ }{\color[rgb]{0.8, 0.0, 0.2}new }{\color[rgb]{0.9, 0.0, 0.1}tab}{\color[rgb]{1.0, 0.0, 0.0})}}$
 
 ### Selenium Java Cucumber Gerkin
 
 $\color{purple}{\textsf{Simple example using Jave selenium Cucumber Gerkin to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Java%20Selenium%20Cucumber/SeleniumJava.md)**
 
+
 ### Selenium Python
 
 $\color{yellow}{\textsf{Simple example using python selenium to logon to a website}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Python%20Selenium/Selenium.md)**
+
 
 ### PlayWright Python
 
@@ -124,10 +128,12 @@ $\color{orange}{\textsf{Simple example using Playwright python to logon to a web
 
 $\color{teal}{\textsf{This example is a Test Script Generator created in Python. It uses various sources to collect data to feed the test scripts.}}$  **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Test%20Generator/TestGen.md)**
 
+
 ### Screen capture for Test script evedince 
 
 $\color{lightblue}{\textsf{Example in VBA, an excel test script with a screen capture function that save screenshots to a cell and pressing on }}$
 $\color{lightblue}{\textsf{the cell will enlarge the image and return to position after words}}$ **[LINK](https://github.com/JamesDevTest/JamesDevTest/blob/main/Examples/Screen%20capture/ScreenCap.md)**
+
 
 ### ISTQB Self Testing Tool 
 
